@@ -1,0 +1,16 @@
+{
+    "name": "jeybin/content-checker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jeybin george",
+            "email": "jeybin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jeybin\\ContentChecker\\": "src/"
+        }
+    },
+    "require": {}
+}
